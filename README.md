@@ -1,1 +1,1 @@
-# alx-react
+Webpack is a popular open-source JavaScript module bundler. It is used to compile JavaScript modules along with other assets such as CSS, images, and fonts into a single or multiple output files that can be served to the browser. Webpack helps manage and optimize the assets and dependencies of a web application, making development and deployment easier and more efficient.
