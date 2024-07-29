@@ -1,0 +1,1 @@
+Are inputs to a React component. They are data passed down from a parent component to a child component, allowing data to flow through the component tree. Props are read-only, meaning that a child component cannot modify the props it receives.
