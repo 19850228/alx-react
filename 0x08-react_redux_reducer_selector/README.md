@@ -1,0 +1,1 @@
+A reducer is a pure function that takes the current state and an action as arguments, and returns a new state. It dictates how the application's state changes in response to actions sent to the store.
